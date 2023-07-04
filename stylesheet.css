@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    padding: 10px 20px ;
+    background-color: black;
+    }
+    .wrap {
+      background-color: #F0FFF0;
+      padding:10px;
+      border:dashed;
+    
+      }
+    .wrap h1 {
+      text-align:center;
+      font-family: 'Times New Roman', Times, serif;
+    
+    }
+    .name{
+        display: grid;
+        grid-template-columns: auto auto ;
+      
+        }
+    .firstname h2{
+      color:white;
+      background-color: black;
+      text-align:right;
+    }
+    .lastname h2 {
+      color:white;
+      background-color: red;
+      text-align:left;
+      padding-left:10px;
+    }
+    .info {
+        display: grid;
+        grid-template-columns: auto  auto ;
+        padding:20px;
+        border:dotted;
+        border-left: 6px solid black;
+        border-right: 6px solid red;
+        }
+    
+    img {
+        border-radius: 50%;
+        height: 200px;
+        padding-left: 100px;
+    }
+    
+    .info-2 {
+      font-family: 'Times New Roman', Times, serif ;
+      font-weight: bold;
+      padding-left: 130px;
+
+    }
+    
+    .details h2{
+      color: red;
+      font-weight: bold;
+      background-color:#DCDCDC;
+      border-left: 6px solid red;
+    }
+    
+    .details ul li{
+      list-style-type:none;
+      color:#2F4F4F;
+      font-weight: bold;
+    
+    }
+    
+    
