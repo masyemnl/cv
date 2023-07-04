@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+        <link rel="stylesheet" href="stylesheet.css">
+        <title>My Digital Resume</title>
+        </head>
+    <body>
+        <div class="wrap">
+        <div class="header"><h1>Digital Resume</h1></div>
+        <div class="name">
+            <div class="firstname"><h2>Mohammed </h2></div>
+                <div class="lastname"><h2>Al-Shami</h2></div></div>                        
+        <div class="info">
+            <div id="img"><img src="https://github.com/masyemnl/HYF-Module-HTMLCSSGIT/blob/main/week1/Untitled.jpg?raw=true"  alt=""></div>
+
+        <div class="info-2">
+            <address><p>Country .................................Netherlands</p>
+                    <p> Adderss................................. Brunningsstraat 24</p>
+                    <p>Email ................................... masyemnl@gmail.com</p>
+                    <p>Mobile No ............................... 06 8585 6236</p>
+                    </address> 
+                </div>
+            </div>
+
+                    <div class="details"><h2> Education</h2>
+                        <ul><li>Misr University For Science & Technology</li>
+                            <li> Egypt - Cairo</li><br>
+                            <li>Specialization: Information System</li>
+                            <li>Level of education: bachelor</li>
+                        </ul>
+        
+                        <h2> Experinces</h2>
+                    <ul>
+                         <li>- Web admin & Devloper ..........<i>2022- Present</i>
+                        <ul><li>Blue Heart Organization - Nederland</li></ul></li><br>
+                         <li>- IT Specialist ..........<i>2011 -2015</i> 
+                        <ul><li>Bureau Veritas - BIVAC</li></ul></li><br>
+                        <li>- Coordinator, Data Entry & Inspector ..........<i>2009-2011</i>
+                        <ul><li>Bureau Veritas - BIVAC</li></ul></li><br>
+                        <li>- Subcontractor 
+                        <ul><li>Robinson International Limited</li></ul></li>
+                    </ul>       
+            
+                                <h2> Skills</h2>
+                    <ul>
+                    <li>- Highly-organized and well-informed , Self-starter with high risk awareness ,Self motivated , Problem solving.</li>
+                    <li>- Resourceful and able to motivate others with excellent communication.</li>
+                    <li>- Interpersonal skills with strong attention to detail targeted at controlling and production processes related activities.</li>
+                    <li>- Strong customer service skills with a keen ability to work towards total customer satisfaction.</li>
+                    </ul>   
+            </div>   
+        </div>
+    </body>
+</html>
