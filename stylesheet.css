@@ -71,4 +71,9 @@ body{
   .info-2 {
     flex-direction: column;
           display: block;
+  }
+         .img {
+    flex-direction: column;
+          display: block;
+         }
 
