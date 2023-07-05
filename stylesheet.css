@@ -70,3 +70,5 @@ body{
 
   .info-2 {
     flex-direction: column;
+          display: block;
+
